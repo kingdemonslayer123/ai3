@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["치킨은 닭입니"],
+       "texts": ["치킨은 닭입니다"],
        "images": ["https://www.chosun.com/resizer/v2/ESCCZ3JUYRD6ZG3X74MTALWHZI.jpg?auth=55e2cd5b24f7eab941a706b99cce5545882ad1ce03317642266c951e255871fb&width=616"],
        "videos": ["https://www.youtube.com/watch?v=yvmRvvA3nNA"]
      },
