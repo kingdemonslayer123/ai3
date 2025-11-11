@@ -70,15 +70,15 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["가장 유명한 파는 파스타"],
+       "texts": ["치킨은 닭입니다"],
        "images": ["https://www.chosun.com/resizer/v2/ESCCZ3JUYRD6ZG3X74MTALWHZI.jpg?auth=55e2cd5b24f7eab941a706b99cce5545882ad1ce03317642266c951e255871fb&width=616"],
        "videos": ["https://www.youtube.com/watch?v=yvmRvvA3nNA"]
      },
 
          labels[1]: {
-       "texts": ["치킨은 닭입니다"],
-       "images": ["https://www.chosun.com/resizer/v2/ESCCZ3JUYRD6ZG3X74MTALWHZI.jpg?auth=55e2cd5b24f7eab941a706b99cce5545882ad1ce03317642266c951e255871fb&width=616"],
-       "videos": ["https://www.youtube.com/watch?v=yvmRvvA3nNA"]
+       "texts": ["가장 유명한 파는 파스타"],
+       "images": ["https://gi.esmplus.com/lwwin2104/%EB%9D%B5%EA%B5%B4%EB%A7%88%EC%BC%93/%EB%B0%80%ED%82%A4%ED%8A%B8/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80_%EC%A0%9C%ED%92%88%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=58EZ0_8oPG4"]
      },
 }
 
