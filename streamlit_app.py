@@ -80,6 +80,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://gi.esmplus.com/lwwin2104/%EB%9D%B5%EA%B5%B4%EB%A7%88%EC%BC%93/%EB%B0%80%ED%82%A4%ED%8A%B8/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80_%EC%A0%9C%ED%92%88%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"],
        "videos": ["https://www.youtube.com/watch?v=58EZ0_8oPG4"]
      },
+
+         labels[2]: {
+       "texts": ["피자먹고 얼굴피자"],
+       "images": ["https://i.namu.wiki/i/PWKo_c-KTc4FEGntNGCdsDRrZJr_gJUhrSYNeHFNDWkrsF-hV3IljVoPtRooK_mpLG2tb0NkfwY5Z8uS5iU2Vw.webp"],
+       "videos": ["https://www.youtube.com/watch?v=e7q_3wggW_o"]
+     },
 }
 
 # ======================
